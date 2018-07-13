@@ -4,3 +4,6 @@ Thanks for contributing to Unrupt! To get started:
 - Issue a pull request.
 
 If you have any questions, open an issue.
+
+# Contributors:
+@b4oshany
